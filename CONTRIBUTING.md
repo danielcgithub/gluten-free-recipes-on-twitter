@@ -5,4 +5,3 @@
 ```python
 source ./venv/Scripts/activate
 ```
-3.
